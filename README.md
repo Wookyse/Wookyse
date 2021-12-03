@@ -1,7 +1,7 @@
   
   # This profile is under maintenance!!!
   
-  #### This profile talks about aliens 👽
+  #### About Guilherme 👽
 
 #### Keep looking at the sky 🌠
 
@@ -24,9 +24,7 @@
 
 
 ### Contact-me
-<div> 
-  <a href="https://instagram.com/guilherme.coelhov" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:coelhoguilherme688@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-coelho-vieira-601711220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[![Instagram Badge](https://img.shields.io/badge/-Guilherme%20Coelho-f03a95?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/guilherme.coelhov/)](https://instagram.com/guilherme.coelhov/)
+[![Gmail Badge](https://img.shields.io/badge/-coelhoguilherme688@gmail.com-f31111?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coelhoguilherme688@gmail.com)](mailto:coelhoguilherme688@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Coelho-29aaf5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-coelho-vieira-601711220/)](https://www.linkedin.com/in/guilherme-coelho-vieira-601711220/)
+
