@@ -1,7 +1,7 @@
 ---
 ##### <strong><h3 align="center">• Bio</h3></strong>
 <strong><p align="center">🍎 Name?</strong> Guilherme Coelho Vieira;</p> 
-<strong><p align="center">👴 How old is Guilherme?</strong> He is 19 years old;;</p>
+<strong><p align="center">👴 How old is Guilherme?</strong> I'm 19 years old;</p>
 <strong><p align="center">🎓 College?</strong> Information Systems.</p>  
  
 <div align="center"style="display: inline_block">
