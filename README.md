@@ -9,6 +9,7 @@
   <a href="https://www.javascript.com/"><img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img align="center" alt="TypeScript" height="30" title="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>&nbsp;
   <a href="https://pt-br.reactjs.org/"><img align="center" alt="React" title="ReactJs" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img align="center" alt="React" title="ReactJs" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>
 </div></br>
 <div align="center">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wookyse&theme=dracula&hide_border=false&&layout=compact"/>
