@@ -7,6 +7,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://www.javascript.com/"><img alt="JavaScript" title="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>&nbsp;
+  <a href="https://nodejs.dev/en/learn/"><img alt="NodeJs" title="NodeJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>&nbsp;
   <a href="https://pt-br.reactjs.org/"><img alt="React" title="ReactJs" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>&nbsp;
   <a href="https://sass-lang.com/"><img alt="Sass" title="Sass" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></a>&nbsp;
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img alt="C#" title="C#" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>&nbsp;
