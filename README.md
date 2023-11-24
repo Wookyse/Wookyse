@@ -1,6 +1,6 @@
 <h3 align="center">• About Me</h3>
 <p align="center"><strong>👋 Hello, I'm Guilherme Coelho Vieira</strong></p>
-<p align="center">🎓 I'm a 20-year-old currently pursuing a degree in Information Systems.</p>
+<p align="center">🎓 I'm a 21-year-old currently pursuing a degree in Information Systems.</p>
 <p align="center">👨🏾‍💻 Fullstack Developer.</p>
 <h3 align="center">• Current Tools and Technologies</h3>
 <p align="center">🛠️ I'm currently studying and working with:</p>
